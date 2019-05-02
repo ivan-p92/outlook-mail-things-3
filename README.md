@@ -7,3 +7,5 @@ The other script looks at the currently selected todo in Things3, then opens the
   
 Since I own the Alfred PowerPack I created an Alfred Workflow to run the scripts when hitting **ctrl-option-cmd-M**.
 The same can be achieved with BetterTouchTool and probably many more tools. The workflow is included above.
+
+These little scripts are provided as is, let's say under the gpl-3.0 license. I hope you will find them useful.
